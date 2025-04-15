@@ -1,0 +1,167 @@
+[
+    {
+        "id": "1759399487600984",
+        "object_value": "regulatory--maximum-speed-limit-50--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.784757468441,
+                29.786021789458
+            ]
+        }
+    },
+    {
+        "id": "3836450669786240",
+        "object_value": "regulatory--maximum-speed-limit-30--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.789598364409,
+                29.771658208264
+            ]
+        }
+    },
+    {
+        "id": "925674154877039",
+        "object_value": "regulatory--maximum-speed-limit-35--g2",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.788050882553,
+                29.746664626394
+            ]
+        }
+    },
+    {
+        "id": "985264679652345",
+        "object_value": "regulatory--maximum-speed-limit-40--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.798143031005,
+                29.749993201794
+            ]
+        }
+    },
+    {
+        "id": "937688495012717",
+        "object_value": "regulatory--maximum-speed-limit-35--g2",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.796028348388,
+                29.758251026184
+            ]
+        }
+    },
+    {
+        "id": "1185471505238561",
+        "object_value": "regulatory--maximum-speed-limit-30--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.785255825265,
+                29.769243293641
+            ]
+        }
+    },
+    {
+        "id": "3676076412697024",
+        "object_value": "regulatory--maximum-speed-limit-30--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.797067369662,
+                29.749924027825
+            ]
+        }
+    },
+    {
+        "id": "597928881167908",
+        "object_value": "regulatory--maximum-speed-limit-40--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.790358021408,
+                29.773236245929
+            ]
+        }
+    },
+    {
+        "id": "318689256533329",
+        "object_value": "regulatory--maximum-speed-limit-35--g2",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.784400375571,
+                29.752171678095
+            ]
+        }
+    },
+    {
+        "id": "1189801554776808",
+        "object_value": "regulatory--maximum-speed-limit-65--g2",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.796789808627,
+                29.785885805061
+            ]
+        }
+    },
+    {
+        "id": "381628983098142",
+        "object_value": "regulatory--maximum-speed-limit-35--g2",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.780178207444,
+                29.76617213158
+            ]
+        }
+    },
+    {
+        "id": "159223852750182",
+        "object_value": "regulatory--maximum-speed-limit-35--g2",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.796292568512,
+                29.748545550337
+            ]
+        }
+    },
+    {
+        "id": "166627051973806",
+        "object_value": "regulatory--maximum-speed-limit-90--g1",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.780659680572,
+                29.785566102749
+            ]
+        }
+    },
+    {
+        "id": "217448439811885",
+        "object_value": "regulatory--maximum-speed-limit-40--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.79309668668,
+                29.773738132896
+            ]
+        }
+    },
+    {
+        "id": "201373981824424",
+        "object_value": "regulatory--maximum-speed-limit-20--g3",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -95.792916261024,
+                29.742235048783
+            ]
+        }
+    }
+]

@@ -1,0 +1,92 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.4 2390de5a",
+    "osm3s": {
+        "timestamp_osm_base": "2025-01-30T21:50:29Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "way",
+            "id": 749350378,
+            "bounds": {
+                "minlat": 34.8535805,
+                "minlon": -82.2439551,
+                "maxlat": 34.8539501,
+                "maxlon": -82.2403515
+            },
+            "nodes": [
+                7007575737,
+                113236256,
+                113236260,
+                113236262,
+                113236268,
+                113236271,
+                8129635922,
+                113167640,
+                7007575722,
+                6902874623
+            ],
+            "geometry": [
+                {
+                    "lat": 34.8539501,
+                    "lon": -82.2439551
+                },
+                {
+                    "lat": 34.853902,
+                    "lon": -82.243713
+                },
+                {
+                    "lat": 34.853846,
+                    "lon": -82.243394
+                },
+                {
+                    "lat": 34.853818,
+                    "lon": -82.243186
+                },
+                {
+                    "lat": 34.853764,
+                    "lon": -82.242806
+                },
+                {
+                    "lat": 34.853735,
+                    "lon": -82.242522
+                },
+                {
+                    "lat": 34.8536908,
+                    "lon": -82.2419168
+                },
+                {
+                    "lat": 34.853636,
+                    "lon": -82.241167
+                },
+                {
+                    "lat": 34.8536318,
+                    "lon": -82.2411051
+                },
+                {
+                    "lat": 34.8535805,
+                    "lon": -82.2403515
+                }
+            ],
+            "tags": {
+                "alt_name": "County Road 492",
+                "highway": "secondary",
+                "lanes": "5",
+                "lanes:backward": "2",
+                "lanes:both_ways": "1",
+                "lanes:forward": "2",
+                "maxspeed": "40 mph",
+                "name": "Pelham Road",
+                "surface": "asphalt",
+                "tiger:cfcc": "A41",
+                "tiger:county": "Greenville, SC",
+                "tiger:name_base": "Pelham",
+                "tiger:name_base_1": "County Road 492",
+                "tiger:name_type": "Rd",
+                "tiger:zip_left": "29615",
+                "tiger:zip_right": "29615"
+            }
+        }
+    ]
+}
